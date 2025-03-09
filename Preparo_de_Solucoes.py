@@ -1,3 +1,4 @@
+# filepath: [Preparo_de_Solucoes.py](http://_vscodecontentref_/1)
 from molmass import Formula
 from unidecode import unidecode
 
